@@ -16,7 +16,7 @@ hr {
 }
 
 .faded {
-  color: rgba(255, 255, 255, 0.7); 
+  color: rgba(255, 255, 255, 0.8); 
 }
 
 header.startup {
@@ -40,6 +40,8 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
+  margin: auto;
+  display: block;
 }
 
 .btn-xl {
@@ -55,13 +57,5 @@ header.startup h1 {
   border-color: #ee4b08;
   border-width: 5px;
   cursor: pointer;
-}
-.btn-success{
-    background-color: #ee4b08;
-    border-color: #ee4b08
-        
-    border-width: 5px;
-    cursor: pointer;
-    
 }
   
